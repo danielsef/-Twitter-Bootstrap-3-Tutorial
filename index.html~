@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Twitter Bootstrap 3</title>
+
+	<link type="text/css" rel="stylesheet" href="css/bootstrap.css" />
+
+
+</head>
+
+<body>
+
+
+
+
+
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.js"></script>
+
+</body>
+
+</html>
